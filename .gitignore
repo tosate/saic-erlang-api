@@ -1,0 +1,4 @@
+*.beam
+*.asn1db
+
+asn1_uper/
